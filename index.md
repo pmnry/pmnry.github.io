@@ -10,4 +10,4 @@
 ### Finance projects
 
 [Statistical Arbitrage](/StatArbETF)
-<img src="images/statarb.jpg?raw=true"/>
+<img src="images/statarb.jpeg?raw=true"/>
