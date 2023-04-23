@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science projects
 
 [Barchart option data scraping with Selenium](/BarchartSelenium)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/vol_surf.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
